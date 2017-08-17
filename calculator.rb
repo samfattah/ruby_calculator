@@ -6,12 +6,12 @@ def start
     # need to make rules for when user doesn't input a number for num1/num2
     puts "What is your first number?"
         num1 = gets.to_f
-        #     if num1 = ('a'..'z')
-        #         puts "Invalid character, I can only use numbers. Please try again."
-            #else
-                puts "What is your operator?"
-                ops = gets.strip
-            #end
+            # if num1 = ('a'..'z')
+            #    puts "Invalid character, I can only use numbers. Please try again."
+            # else
+                 puts "What is your operator?"
+                 ops = gets.strip
+            # end
             
             
                 # if statement for the operator
